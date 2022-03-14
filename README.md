@@ -18,7 +18,7 @@ Meu nome é Ramon Ribeiro, 32, Desenvolvedor Full Stack!
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramontribeirob&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramontribeiro&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
 ---
