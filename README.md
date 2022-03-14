@@ -7,11 +7,10 @@
 
 Meu nome é Ramon Ribeiro, 32, Desenvolvedor Full Stack!
 
-- :office_worker: Engenheiro Químico, estudando desenvolvimento web Full Stack
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: AWS, Relay & GraphQL
+- :office_worker: Engenheiro Químico
+- :blue_heart: Stack: ReactJS, Node, CSS, HTML5, JavaScript
+- :books: Estudando: Desenvolvimento Web Full Stack
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 ---
 
 <details>
