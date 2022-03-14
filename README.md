@@ -5,7 +5,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Lucas Bittencourt, 22, Desenvolvedor Full Stack e amante do DevOps!
+Meu nome é Ramon Ribeiro, 32, Desenvolvedor Full Stack!
 
 - :office_worker: Software Engineer no [**Curso Ênfase**](https://cursoenfase.com.br/)
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
