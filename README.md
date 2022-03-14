@@ -7,7 +7,7 @@
 
 Meu nome é Ramon Ribeiro, 32, Desenvolvedor Full Stack!
 
-- :office_worker: Software Engineer no [**Curso Ênfase**](https://cursoenfase.com.br/)
+- :office_worker: Engenheiro Químico, estudando desenvolvimento web Full Stack
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
 - :books: Estudando: AWS, Relay & GraphQL
 
