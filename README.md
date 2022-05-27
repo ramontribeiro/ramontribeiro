@@ -1,9 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonrib/)](https://www.linkedin.com/in/ramonrib/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ramonrib@gmail.com)](mailto:ramonrib@gmail.com)
 
-<h1 align='center'> Hi there 👋, I'm Stefany  👩‍💻 </h1>
+<h1 align='center'> Iae pessoal <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">, sou o Ramon Ribeiro</h1>
 
-## Ramon Ribeiro <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Ramon Ribeiro 
 
 ## Iae pessoal!!
 Meu nome é Ramon Ribeiro, 32, Desenvolvedor Full Stack!
