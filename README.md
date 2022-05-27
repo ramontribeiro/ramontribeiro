@@ -1,5 +1,4 @@
 # :man_technologist: Ramon Ribeiro
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonrib/)](https://www.linkedin.com/in/ramonrib/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ramonrib@gmail.com)](mailto:ramonrib@gmail.com)
 
