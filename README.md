@@ -7,8 +7,8 @@
 Sou um apaixonado e fascinado pelo universo da tecnologia. 
 Um eterno estudante, sempre no objetivo de evolução e conhecimento, aperfeiçoando minhas habilidades e qualidades.
 
-Atualmente tenho me dedicado a me desenvolver como Desenvolver Web FullStack. Todo o meu emprenho e dedicação para conquistar
-uma oportunidade como desenvolvedor e ter a chance de contribuir em projetos.
+Atualmente tenho me dedicado a me desenvolver como Desenvolver Web FullStack. Todo o meu emprenho e dedicação para 
+conquistar uma oportunidade como desenvolvedor e ter a chance de contribuir em projetos.
 ```
 
 <p align='center'>
