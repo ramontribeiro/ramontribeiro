@@ -38,9 +38,9 @@ conquistar uma oportunidade como desenvolvedor e ter a chance de contribuir em p
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <hr>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramontribeiro&show_icons=true&theme=graywhite&include_all_commits=truecount_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=16&theme=graywhite"/>
+</div>
 <hr>
-    <div align="center">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramontribeiro&show_icons=true&theme=graywhite&include_all_commits=truecount_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=16&theme=graywhite"/>
-    </div>
-            <hr>
