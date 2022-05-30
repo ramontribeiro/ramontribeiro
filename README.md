@@ -40,7 +40,9 @@ conquistar uma oportunidade como desenvolvedor e ter a chance de contribuir em p
 <hr>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ramontribeiro&show_icons=true&theme=graywhite&include_all_commits=truecount_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=16&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ramontribeiro&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <hr>
+
+
