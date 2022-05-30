@@ -44,5 +44,3 @@ conquistar uma oportunidade como desenvolvedor e ter a chance de contribuir em p
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=16&theme=graywhite"/>
 </div>
 <hr>
-
-![teste](https://github-readme-stats.vercel.app/api/top-langs/?username=ramontribeiro&layout=compact&langs_count=16&theme=graywhite)
